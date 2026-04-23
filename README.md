@@ -18,6 +18,7 @@
 - low level thinking
 - web systems
 - ui/ux
+- 2d games
 
 #### some extreme ideas in my mind (likely none of them will succeed sadly)
 
@@ -47,6 +48,11 @@
   + Plugins for Visual Builder, UI Components, alternative for event based system (Example: Framework7, Tailwind, Complex CSS Features [for reason i dont want give them by default])
   <br>
   </details>
+
+#### some info
+
+- sometimes i vibe coding sometimes i write myself
+- i just use github for backup and sharing my projects, i dont care about stars or anything like ..
 
 ## SOME COOL STATS PICTURES
 
