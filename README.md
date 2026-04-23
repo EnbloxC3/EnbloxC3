@@ -48,8 +48,13 @@
   <br>
   </details>
 
-## SOME COOL STATS PICTURE
+## SOME COOL STATS PICTURES
+
+<div align="center">
 
 ![stats](https://github-readme-stats.vercel.app/api?username=EnbloxC3&show_icons=true&theme=dark)
+![toplangs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnbloxC3&&theme=dark)
+
+</div>
 
 bye
