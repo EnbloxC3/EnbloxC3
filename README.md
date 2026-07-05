@@ -1,68 +1,31 @@
+# EnbloxC3
 ![GitHub User's stars](https://img.shields.io/github/stars/EnbloxC3)
-![Repo Type](https://img.shields.io/badge/Github-Config-blue?logo=github)
-<br>
-
-# Hi
-
-### very very important flashy readme file
-
-#### about
-
-- I've been doing things for software for over ![5 years](https://img.shields.io/badge/5-years-green) (i guess)
-- at this point i learn shield images .d
-- I dont worry about finding a job, I do it for pleasure.
-
-#### love something
-
-- system design
-- low level thinking
-- web systems
-- ui/ux
-- 2d games
-
-#### some extreme ideas in my mind (likely none of them will succeed sadly)
-
-- <details>
-  <summary>WGEditor</summary>
-  WebGL-based advanced game/editor environment inspired by Unity-like workflows
-  </details>
-
-- <details>
-  <summary>HtmlOS</summary>
-  A custom HTML-based operating system concept with layered architecture and virtual session handling.
-  <br>
-  + Custom file system (HTFS)
-  <br>
-  + Internal session isolation
-  <br>
-  + JS-driven UI system
-  <br>
-  </details>
-
-- <details>
-  <summary>AppMaken (no name actually)</summary>
-  A destop app making ultimate cross platform app (all mobile & all desktop & web) builder with a visual drag&drop editor, event based scripting and editor plugin and extension system.
-  <br>
-  + Profile based extension for specific projects (Example: Node Runtime, Java Runtime for Cap [for own capicator plugins], Capicator)
-  <br>
-  + Plugins for Visual Builder, UI Components, alternative for event based system (Example: Framework7, Tailwind, Complex CSS Features [for reason i dont want give them by default])
-  <br>
-  </details>
-
-#### some info
-
-- sometimes i vibe coding sometimes i write myself
-- i just use github for backup and sharing my projects, i dont care about stars or anything like ..
-
-## SOME COOL STATS PICTURES
 
 <div align="center">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 260">
+    <polygon
+        points="110,60 290,60 330,90 150,90"
+        fill="#FFE36E"
+        stroke="#C58C00"
+        stroke-width="3"/>
+    <polygon
+        points="110,60 150,90 150,190 110,160"
+        fill="#F5C73A"
+        stroke="#C58C00"
+        stroke-width="3"/>
+    <polygon
+        points="150,90 330,90 330,190 150,190"
+        fill="#FFD54A"
+        stroke="#C58C00"
+        stroke-width="3"/>
+    <circle cx="205" cy="120" r="16" fill="#E7B52A"/>
+    <circle cx="275" cy="145" r="12" fill="#E7B52A"/>
+    <circle cx="175" cy="165" r="9" fill="#E7B52A"/>
+    <ellipse cx="245" cy="75" rx="11" ry="7"
+             fill="#F0BF2A"/>
+</svg></div>
 
-![stats](https://github-readme-stats.vercel.app/api?username=EnbloxC3&show_icons=true&theme=dark)
-<br>
 
-![toplangs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnbloxC3&&theme=dark)
+### Socials
 
-</div>
-
-bye
+[![Discord](https://img.shields.io/badge/enblox-7289DA?logo=discord&logoColor=white)](https://discord.com/users/817483061284569118)
