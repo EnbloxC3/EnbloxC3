@@ -1,22 +1,61 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 260">
-    <polygon
-        points="110,60 290,60 330,90 150,90"
-        fill="#FFE36E"
-        stroke="#C58C00"
-        stroke-width="3"/>
-    <polygon
-        points="110,60 150,90 150,190 110,160"
-        fill="#F5C73A"
-        stroke="#C58C00"
-        stroke-width="3"/>
-    <polygon
-        points="150,90 330,90 330,190 150,190"
-        fill="#FFD54A"
-        stroke="#C58C00"
-        stroke-width="3"/>
-    <circle cx="205" cy="120" r="16" fill="#E7B52A"/>
-    <circle cx="275" cy="145" r="12" fill="#E7B52A"/>
-    <circle cx="175" cy="165" r="9" fill="#E7B52A"/>
-    <ellipse cx="245" cy="75" rx="11" ry="7"
-             fill="#F0BF2A"/>
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 200 200"
+     width="24"
+     height="24">
+
+    <defs>
+        <linearGradient id="redGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#ff5555a4">
+                <animate attributeName="stop-color"
+                    values="#ff8f8f9a; #f8ff9c91; #86baff93; #78ff958c; #a0a0a06c; #ff91918e"
+                    dur="10s"
+                    repeatCount="indefinite"/>
+            </stop>
+            <stop offset="100%" stop-color="#ff9191">
+                <animate attributeName="stop-color"
+                    values="#ff9191; #f8ff9c; #86bbff; #78ff95; #a0a0a0; #ff9191"
+                    dur="10s"
+                    repeatCount="indefinite"/>
+            </stop>
+        </linearGradient>
+    </defs>
+
+    <g>
+
+        <animateTransform
+            attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="0 100 100"
+            to="360 100 100"
+            dur="4s"
+            repeatCount="indefinite"/>
+        <circle
+            cx="100"
+            cy="100"
+            r="98"
+            fill="white"
+            stroke="#222"
+            stroke-width="2"/>
+        <path
+            d="
+            M100 2
+            A98 98 0 0 1 100 198
+            A49 49 0 0 0 100 100
+            A49 49 0 0 1 100 2
+            Z"
+            fill="url(#redGradient)"/>
+        <circle
+            cx="100"
+            cy="51"
+            r="15"
+            fill="white"/>
+
+        <circle
+            cx="100"
+            cy="149"
+            r="15"
+            fill="url(#redGradient)"/>
+    </g>
+
 </svg>

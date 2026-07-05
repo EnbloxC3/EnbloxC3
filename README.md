@@ -1,8 +1,8 @@
-# EnbloxC3
+# Ches ![toho ehehehehheehheeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](./a.svg)
 
-![GitHub User's stars](https://img.shields.io/github/stars/EnbloxC3)
+### Stats
 
-![Ches](./a.svg)
+![stars](https://img.shields.io/github/stars/EnbloxC3) ![followers](https://img.shields.io/github/followers/EnbloxC3)
 
 ### Socials
 
