@@ -1,10 +1,10 @@
 # EnbloxC3
+
 ![GitHub User's stars](https://img.shields.io/github/stars/EnbloxC3)
 
 <div align="center">
-![Ches](a.svg)
+![Ches](./a.svg)
 </div>
-
 
 ### Socials
 
